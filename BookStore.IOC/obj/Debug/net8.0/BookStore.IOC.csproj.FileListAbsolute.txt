@@ -1,0 +1,11 @@
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\bin\Debug\net8.0\BookStore.IOC.deps.json
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\bin\Debug\net8.0\BookStore.IOC.dll
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\bin\Debug\net8.0\BookStore.IOC.pdb
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\BookStore.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\BookStore.IOC.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\BookStore.IOC.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\BookStore.IOC.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\BookStore.IOC.dll
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\refint\BookStore.IOC.dll
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\BookStore.IOC.pdb
+C:\Users\USER\RiderProjects\BookStore\BookStore.IOC\obj\Debug\net8.0\ref\BookStore.IOC.dll

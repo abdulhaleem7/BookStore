@@ -1,0 +1,11 @@
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\bin\Debug\net8.0\BookStore.Persistence.deps.json
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\bin\Debug\net8.0\BookStore.Persistence.dll
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\bin\Debug\net8.0\BookStore.Persistence.pdb
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\BookStore.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\BookStore.Persistence.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\BookStore.Persistence.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\BookStore.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\BookStore.Persistence.dll
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\refint\BookStore.Persistence.dll
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\BookStore.Persistence.pdb
+C:\Users\USER\RiderProjects\BookStore\BookStore.Persistence\obj\Debug\net8.0\ref\BookStore.Persistence.dll

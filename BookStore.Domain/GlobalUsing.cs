@@ -1,0 +1,1 @@
+﻿global using BookStore.Domain.Contracts;
